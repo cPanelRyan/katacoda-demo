@@ -8,5 +8,5 @@ sed -i 's/1_024,/512,/' install
 hostname "cp$RANDOM.kata.cpanel.net"
 yum clean all
 yum makecache
-yum update
+yum -y update
 ./bootstrap
