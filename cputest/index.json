@@ -38,10 +38,11 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-iframe"
+    "showdashboards": true,
+	"uilayout": "terminal-iframe"
   },
   "backend": {
     "imageid": "cpanel-demo-cpanel90",
-    "port": "2087"
+    "port": "2086"
   }
 }
