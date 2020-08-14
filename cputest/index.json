@@ -43,6 +43,6 @@
   },
   "backend": {
     "imageid": "cpanel-demo-cpanel90",
-    "port": "2086"
+    "port": 2086
   }
 }
