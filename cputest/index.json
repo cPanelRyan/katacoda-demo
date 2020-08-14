@@ -41,7 +41,7 @@
     "uilayout": "terminal-iframe"
   },
   "backend": {
-    "imageid": "cpanel90",
+    "imageid": "cpanel-demo-cpanel90",
     "port": "2087"
   }
 }
