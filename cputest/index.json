@@ -39,10 +39,10 @@
   },
   "environment": {
     "showdashboards": true,
+	"dashboards": [{"name": "WHM Login", "port": 2087}, {"name": "cPanel Login", "port": 2083}],
 	"uilayout": "terminal-iframe"
   },
   "backend": {
-    "imageid": "cpanel-demo-cpanel90",
-    "port": 2086
+    "imageid": "cpanel-demo-cpanel90"
   }
 }
