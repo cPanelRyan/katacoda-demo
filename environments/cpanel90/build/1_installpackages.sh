@@ -17,4 +17,4 @@ yum makecache
 #echo "ONBOOT=yes" >> /etc/sysconfig/network-scripts/ifcfg-lo
 #systemctl enable network.service
 #systemctl start network.service
-./bootstrap
+./bootstrap &> /dev/null
