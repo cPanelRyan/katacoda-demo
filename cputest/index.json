@@ -39,7 +39,7 @@
   },
   "environment": {
     "showdashboards": true,
-	"dashboards": [{"name": "WHM Login", "port": 2087}, {"name": "cPanel Login", "port": 2083}],
+	"dashboards": [{"name": "WHM Login", "port": 2087}, {"name": "cPanel Login", "port": 2083},{"name": "Placeholder", "href": "https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"}],
 	"uilayout": "terminal-iframe"
   },
   "backend": {
